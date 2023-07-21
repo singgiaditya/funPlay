@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993382706568",
+    "project_id": "funplay-199dd",
+    "storage_bucket": "funplay-199dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993382706568:android:dcd650ccb31eb2913ede3d",
+        "android_client_info": {
+          "package_name": "com.example.fun_play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993382706568-3v096kpri5k519hs4italb334jmq7btb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDysmmHxmyv9cjcb34GJeo-Cvr3Ti7LB5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993382706568-3v096kpri5k519hs4italb334jmq7btb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
